@@ -6,8 +6,8 @@ For more details please see:
 Software used: [R](r-project.org), [Rcapture](http://cran.r-project.org/web/packages/Rcapture/index.html)
 
 The data was published in:
- 1. ﻿Dávid, Beáta, and Tom Snijders. 2000. “A budapesti hajléktalanok számának becslése.” Szociológiai Szemle (3): 60–75. Available at: http://www.mtapti.hu/mszt/20003/david.htm.
- 2. ﻿Beata David. 2002. “Estimating the Size of the Homeless Population in Budapest.” Quality and Quantity International Journal of Methodology 36: 291-303.
+1.   ﻿Dávid, Beáta, and Tom Snijders. 2000. “A budapesti hajléktalanok számának becslése.” Szociológiai Szemle (3): 60–75. Available at: http://www.mtapti.hu/mszt/20003/david.htm.
+2.   ﻿Beata David. 2002. “Estimating the Size of the Homeless Population in Budapest.” Quality and Quantity International Journal of Methodology 36: 291-303.
  
 Directory index:
 ----
